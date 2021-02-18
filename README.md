@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @hashrider
+- 👀 I’m interested in blockchain and machine learning.
+- 💞️ I’m looking to collaborate on blockchain projects.
